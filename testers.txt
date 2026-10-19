@@ -1,2 +1,3 @@
    # SMURFS PIT MOD - beta testers
    # format: uuid;hwid;nick
+6d73606e-158b-4fe8-ba19-20d74ee9c88b;9a0f02f474fed611;L4raCroft

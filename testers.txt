@@ -1,0 +1,2 @@
+   # SMURFS PIT MOD - beta testers
+   # format: uuid;hwid;tester;nick

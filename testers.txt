@@ -1,6 +1,7 @@
 # generováno botem – needitovat ručně
 # uuid;hwid;nick;role
 be6cc34a9219418f83cb365e51f0e450;63e225a1de17f6ad;Adam787_Vol3;beta
+9aef3301bbb54ae9a727355e80a2c221;4bf60afa3f0e5121;Artely_;beta
 d0bdfc25448f4115a7280f8c0add2cc7;c06ca2749288f67b;Beqtrizz;beta
 8c22a249f488405ca775247470d444d7;5b346f82b8378491;DOMINUJEM;beta
 8c22a249f488405ca775247470d444d7;981ee6d78c89660f;DOMINUJEM;beta
